@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: sosmed
-        image: rodxolotl/sosmed:1.0.0
+        image: rodxolotl/sosmed:1.0.2
         ports:
         - containerPort: 8080
