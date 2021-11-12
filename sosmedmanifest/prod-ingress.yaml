@@ -11,7 +11,7 @@ metadata:
     nginx.ingress.kubernetes.io/fastcgi_read_timeout: "1800"
 spec:
   rules:
-    - host: prod.sosmed.rodxolotl.xyz
+    - host: sosmedprod.rodxolotl.xyz
       http:
         paths:
           - path: /
